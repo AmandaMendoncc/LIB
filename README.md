@@ -1,3 +1,4 @@
+
 # SolarPV Analytics
 
 Este projeto é uma ferramenta de linha de comando (CLI) para executar simulações de performance de sistemas fotovoltaicos utilizando a biblioteca `pvlib` em Python. A arquitetura é modular, configurável e extensível.
