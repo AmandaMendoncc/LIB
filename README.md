@@ -97,17 +97,9 @@ SolarPV-Analytics-Simulator/
 └── README.md
 ```
 
-## 7. Exemplos de Uso
 
-- Abra a aplicação via Streamlit.
-- Configure latitude, longitude, sistema fotovoltaico e período.
-- Execute a simulação clicando no botão.
-- Analise resultados e gráficos.
-- Exporte dados para CSV se desejar.
+## 7. Créditos
 
-## 8. Créditos
-
-Desenvolvedoras:
 
 - Amanda Mendonça
 - Leticia Augusto
